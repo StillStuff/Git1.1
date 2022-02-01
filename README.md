@@ -1,6 +1,6 @@
 # Hello World
 ## Goodbye World
-_This_ is **also** my first commit.
+_This_ is **also** my ~~first~~ second commit.
 You can find it on [Github](www.github.com).
 
 >"Her eyes had called him and his soul had leaped at the call. To live, to err, to fall, to triumph, to recreate life out of life!"
@@ -9,13 +9,18 @@ Classic Works:
 * Macbeth
 * Hamlet
 * Surburban Sasquatch
+* Alien Private Eye
 
 Their Rankings:
 1. Surburban Sasquatch
 2. Macbeth
 3. Hamlet
+4. Alien Private Eye
 
-Surburban Sasquatch is a classic **~~bad~~** movie.
+Surburban Sasquatch is a classic **~~bad~~** movie. A classic ~~bad~~ movie is characterized by:  
+- [x] Shoestring budget  
+- [ ] Honest Incompetence
+- [ ] Written and directed by aliens
 
 ```
 git status
