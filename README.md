@@ -19,8 +19,8 @@ Their Rankings:
 
 Surburban Sasquatch is a classic **~~bad~~** movie. A classic ~~bad~~ movie is characterized by:  
 - [x] Shoestring budget  
-- [ ] Honest Incompetence
-- [ ] Written and directed by aliens
+- [x] Honest Incompetence
+- [x] Written and directed by aliens and/or lawyers
 
 ```
 git status
